@@ -1,8 +1,8 @@
-### Basic Project2
+### Monster Project
 
-### March 26
+### April 18
 
-A Basic Structure for Maven Projects
+An Automation test with Monster.com
 
 * Git
 * Java 7
